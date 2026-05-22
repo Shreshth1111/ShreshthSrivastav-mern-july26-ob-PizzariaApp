@@ -1,0 +1,15 @@
+[
+  { "id": 101, "tname": "Pepperoni",   "price": 110, "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=100&h=100&fit=crop" },
+  { "id": 102, "tname": "Mushroom",    "price": 35,  "image": "https://images.unsplash.com/photo-1504545102780-26774c1bb073?w=100&h=100&fit=crop" },
+  { "id": 103, "tname": "Black beans", "price": 45,  "image": "https://images.unsplash.com/photo-1543352632-5a4b24e4d2a6?w=100&h=100&fit=crop" },
+  { "id": 104, "tname": "Black olive", "price": 50,  "image": "https://images.unsplash.com/photo-1572635148818-ef6fd45eb394?w=100&h=100&fit=crop" },
+  { "id": 105, "tname": "Green olive", "price": 50,  "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=100&h=100&fit=crop" },
+  { "id": 106, "tname": "Jalapeno",    "price": 45,  "image": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?w=100&h=100&fit=crop" },
+  { "id": 107, "tname": "Chicken",     "price": 60,  "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=100&h=100&fit=crop" },
+  { "id": 108, "tname": "Tomato",      "price": 20,  "image": "https://images.unsplash.com/photo-1561136594-7f68413baa99?w=100&h=100&fit=crop" },
+  { "id": 109, "tname": "Red peprika", "price": 30,  "image": "https://images.unsplash.com/photo-1585531439045-f8b634558b2a?w=100&h=100&fit=crop" },
+  { "id": 110, "tname": "Paneer",      "price": 45,  "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=100&h=100&fit=crop" },
+  { "id": 111, "tname": "Fried Onion", "price": 18,  "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?w=100&h=100&fit=crop" },
+  { "id": 112, "tname": "Capsicum",    "price": 15,  "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=100&h=100&fit=crop" },
+  { "id": 114, "tname": "Sweet corn",  "price": 38,  "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=100&h=100&fit=crop" }
+]
